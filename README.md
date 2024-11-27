@@ -7,4 +7,4 @@
 - 🏢 Software Engineer (Full Stack) [@Identiko Solutions](https://www.rolandayo.vercel.app/), in Lagos, Nigeria
 - 🧰 I build with: `Javascript` `React`, `Tailwind Css`, `Mongo Db`, `Node Js`, `Express Js` ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
-- 📫 Reach out to me: ibiwoyeroland@gmail.com
+- 📫 Reach out to me: ibiwoyeroland@gmail.com 
