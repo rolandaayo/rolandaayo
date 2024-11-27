@@ -4,7 +4,7 @@
 
 - [![BR](https://b-r.io/logo/favicon-16x16.png)](https://rolandayo.vercel.app/)
   Feel free to checkout my [portfolio](https://rolandayo.vercel.app/) website!
-- 🏢 Software Engineer (Full-stack) in Lagos, Nigeria
+- 🏢 Full-stack Software Engineer Based in Lagos, Nigeria.
 - 🧰 I build with: `React.js`, `TailwindCSS`, `Next.js`, `Javascript`, `Node.js`, `Express.js`, `MongoDB`...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: ibiwoyeroland@gmail.com
