@@ -4,6 +4,6 @@
 
 - 👨🏽‍💻 Feel free to checkout my [portfolio](https://rolandayo.vercel.app/) website!
 - 🏢 Full-stack Software Engineer based in Lagos, Nigeria.
-- 🧰 I build with: `React.js`, `TailwindCSS`, `Next.js`, `Javascript`, `Node.js`, `Express.js`, `MongoDB` & `PostgreSQL`.
+- 🧰 I build with: `MongoDB`, `Express.js`, `React.js`,`Node.js`, `Next.js`, `Javascript`, `TailwindCSS` & `PostgreSQL`.
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: ibiwoyeroland@gmail.com
